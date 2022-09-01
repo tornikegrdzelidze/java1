@@ -1,0 +1,38 @@
+body{
+  background-color: rgb(29, 27, 29);
+}
+h2 {
+  color: rgb(166, 204, 78);
+  border-radius: 50px;
+}
+.click{
+  width: 70px;
+  height: 20px;
+  background-color: yellow;
+  color:rgb(12, 12, 12);
+  border: none;
+  font-size: 13px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.click:hover{
+  background-color: rgb(158, 158, 36);
+  transform: scale(1,0.9);
+}
+#icon {
+
+}
+.click1{
+  width: 100px;
+  height: 40px;
+  background-color: yellow;
+  border-radius: 10px;
+  border:none;
+  font-size: 15px;
+  transition: 0.5s;
+}
+.click1:hover{
+  background-color: rgb(158, 158, 36);
+  transform: scale(1,0.9);
+}
